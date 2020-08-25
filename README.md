@@ -1,2 +1,2 @@
 # my365.github.io
-gitの練習用
+gitgubでバージョン管理の練習をします
